@@ -1,0 +1,1 @@
+We are hiring a Data Scientist with experience in Python, SQL, pandas, NumPy, machine learning, and AWS. Responsibilities include building ML models, data preprocessing, and working with cloud platforms. Familiarity with TensorFlow or PyTorch is a plus.

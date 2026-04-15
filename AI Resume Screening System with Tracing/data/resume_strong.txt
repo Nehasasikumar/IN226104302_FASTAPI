@@ -1,0 +1,5 @@
+Name: Alice Johnson
+Summary: 5+ years of experience as a Data Scientist. Built end-to-end ML pipelines and deployed models to AWS.
+Skills: Python, SQL, pandas, NumPy, scikit-learn, TensorFlow
+Tools: AWS, Docker, Git
+Experience: 5 years at Acme Corp working on predictive models and feature engineering.

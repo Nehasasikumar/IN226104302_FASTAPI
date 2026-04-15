@@ -1,0 +1,5 @@
+Name: Bob Kumar
+Summary: 2 years experience in data analysis and ML experiments.
+Skills: Python, Excel, SQL, pandas
+Tools: Jupyter, Git
+Experience: 2 years working on data cleaning and model prototyping.

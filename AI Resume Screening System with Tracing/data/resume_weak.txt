@@ -1,0 +1,5 @@
+Name: Carol Lee
+Summary: Recent graduate with internship exposure to data science projects.
+Skills: Excel, basic statistics
+Tools: Google Sheets
+Experience: Internship projects involving EDA and reporting.
